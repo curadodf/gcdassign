@@ -24,4 +24,4 @@ Data was created with the following steps:
 5. Variable and activity names were assigned
 6. A second, independent tidy data set with the average of each variable for each activity and each subject was created and exported (tidyset.txt).
 
-All analysis were conducted in RStudio version 1.1.463. The 'plyr' package was loaded, version 1.8.4.
+All analysis were conducted in RStudio version 1.1.463 on Windows 8 64-bit. The 'plyr' package was loaded, version 1.8.4.
