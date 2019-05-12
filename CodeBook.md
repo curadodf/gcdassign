@@ -69,7 +69,7 @@ VARIABLES:
 [41] "timeDomainBodyGyroscopeJerkMagnitudeMean"                      
 [42] "timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation   
 
-frequencyDomain prefix: "a Fast Fourier Transform (FFT) was applied to some of these signals", producing: 
+frequencyDomain prefix: "a Fast Fourier Transform (FFT) was applied to some of these signals", producing:
 [43] "frequencyDomainBodyAccelerometerMeanX"                         
 [44] "frequencyDomainBodyAccelerometerMeanY"                         
 [45] "frequencyDomainBodyAccelerometerMeanZ"                         
